@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(146, 131, 47);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 3rem;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+h3{
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+p{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+#gameBox{
+    text-align: center;
+    padding: 2%;
+}
+.made{
+    font-size: 1rem;
+}
